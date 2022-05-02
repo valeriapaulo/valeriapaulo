@@ -2,8 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Valéria de Paulo. Sou Full Stack Developer. Curso 6º Semestre de Análise e Desenvolvimento de Sistemas no IFSP.
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ 
 </p>
 
 <p align="left">
