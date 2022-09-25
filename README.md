@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Valéria de Paulo. Sou Full Stack Developer. Curso 6º Semestre de Análise e Desenvolvimento de Sistemas no IFSP.
+  Olá, meu nome é Valéria de Paulo. Sou Desenvolvedora Front End, curso 6º Semestre de Análise e Desenvolvimento de Sistemas no IFSP.
  
 </p>
 
